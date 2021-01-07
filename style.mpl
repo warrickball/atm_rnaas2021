@@ -1,5 +1,3 @@
-text.usetex : True
-text.latex.preamble: \usepackage{bm}
 axes.grid : False
 figure.figsize : 6, 5.25
 figure.dpi  : 150
@@ -15,3 +13,4 @@ figure.subplot.bottom  : 0.15  # 0.14  # the bottom of the subplots of the figur
 figure.subplot.top     : 0.95  # 0.86  # the top of the subplots of the figure
 
 font.family         : serif # sans-serif
+mathtext.fontset    : dejavuserif

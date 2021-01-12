@@ -1,5 +1,6 @@
-This Python script performs the analysis for the T(τ) relation
-presented by Ball (RNAAS 2021).  It
+This Python script performs the analysis for the T(τ) relation presented by
+[Ball (2021, RNAAS **5**, 7)](https://iopscience.iop.org/article/10.3847/2515-5172/abd9cb).
+It
 
 1. downloads the data from [Trampedach et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014MNRAS.442..805T),
 2. caches it to `TtauFeH0.dat` wherever the script is run,
